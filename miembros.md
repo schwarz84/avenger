@@ -1,5 +1,6 @@
 # Miembros
 
+* Hulk
 * Black panther
 * Black Widow
 * Capitán America
